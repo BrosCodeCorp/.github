@@ -1,0 +1,10 @@
+{
+  "name":"DorNet Test template"
+  "description":"Template para projetos com testes em .Net Core",
+  "iconName":"github",
+  "categories":[
+    "C#"
+  ]
+
+  
+}
